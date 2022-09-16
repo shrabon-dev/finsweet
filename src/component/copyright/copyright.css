@@ -1,0 +1,41 @@
+.copyright {
+    background-color: #ffffff;
+    padding: 32px 0px;
+}
+
+.copyright__content {
+    width: 30%;
+}
+
+.copyright__content h4 {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    color: #282938;
+}
+
+.copyright__footer_menu {
+    width: 60%;
+}
+
+.copyright__footer_menu ul {
+    display: flex;
+    justify-content: flex-end;
+    column-gap: 32px;
+}
+
+.copyright__footer_menu a {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    color: #282938;
+    transition: all linear .4s;
+    -webkit-transition: all linear .4s;
+    -moz-transition: all linear .4s;
+    -ms-transition: all linear .4s;
+    -o-transition: all linear .4s;
+}
+
+.copyright__footer_menu a:hover {
+    color: #595ef2;
+}

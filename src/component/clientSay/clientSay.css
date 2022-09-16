@@ -1,0 +1,86 @@
+.feedback {
+    background-color: #FCFDFE;
+    padding: 128px 0px;
+}
+
+.feedback__title {
+    width: 30%;
+}
+
+.feedback__title h2 {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 38px;
+    margin-bottom: 16px;
+    color: #282938;
+}
+
+.feedback__title p {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    color: #282938;
+}
+
+.feedback__slider {
+    width: 60%;
+}
+
+.feedback__message h2 {
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 500;
+    color: #282938;
+}
+
+.feedback__slider_details {
+    display: flex;
+    margin-top: 48px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.feedback__client_details {
+    position: relative;
+    padding-left: 70px;
+    box-sizing: border-box;
+}
+
+.feedback__client_details img {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.feedback__client_details h4 {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    color: #282938;
+}
+
+.feedback__client_details p {
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 500;
+    color: #282938;
+}
+
+.feedback__slider_btn {
+    width: 15%;
+}
+
+.next:hover {
+    background-color: #2405F2;
+    color: #FFFFFF !important;
+
+}
+.prev:hover {
+    background-color: #2405F2;
+    color: #FFFFFF !important;
+}
+.slick-initialized .slick-slide {
+    
+    padding: 22px !important;
+    box-sizing: border-box !important;
+}

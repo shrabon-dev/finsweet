@@ -1,0 +1,70 @@
+.contact_section{
+    width: 842px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+.contact_section .contact_form_part label{
+    display: block;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;    
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+.contact_section .contact_form_part .space-between .input{
+    width: 50%;
+}
+.contact_section .contact_form_part .space-between .input:nth-child(1){
+    width: 48%;
+}
+.contact_section .contact_form_part input{
+    display: block;
+    width: 100%;
+    border: none;
+    background: none;
+    border: 1px solid #0000002d;
+    padding: 18px 32px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    color: #000000;
+    margin-bottom: 24px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+.contact_section .contact_form_part textarea{
+    display: block;
+    width: 100%;
+    border: none;
+    background: none;
+    border: 1px solid #0000002d;
+    padding: 18px 32px;
+    resize: none;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #000000;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+
+}
+.contact_section .contact_form_part button{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 32px;
+    color: #F4F6FC;
+    background: #282938;
+    border-radius: 41px;
+    padding: 5px 51px;
+    margin-top: 32px;
+}

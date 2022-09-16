@@ -1,0 +1,42 @@
+.mission_about{
+    padding: 128px 0;
+    background:#EEF4FA;
+}
+.mission_part{
+    display: flex;
+    justify-content: space-between;
+}
+.mission_part_one{
+    width: 50%;
+}
+.mission_part_two{
+    width: 40%;
+}
+.mission_part_one_text h6{
+     font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: #282938;
+    padding-bottom: 30px;
+}
+.mission_part_one_text p{
+     font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    color: #282938;
+    line-height: 30px;  
+}
+.mission_part_one_text h3{
+     font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 34px;
+    color: #282938;
+    line-height: 30px;  
+    padding-bottom: 20px;
+}
+.mission_part_two img{
+    width: 100%;
+}
+.missiont_margin_top{
+    margin-top: 70px;
+}

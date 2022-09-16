@@ -1,0 +1,91 @@
+.footer {
+    padding: 96px 0px;
+    background-color: #1C1E53;
+    color: #FFFFFF;
+    position: relative;
+}
+
+.footer__container--position {
+    position: relative;
+}
+
+.footer__logo {
+    width: 35%;
+}
+
+.footer__logo p {
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 22px;
+}
+
+.footer__text {
+    width: 40%;
+}
+
+.footer__text h2 {
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.footer__text p {
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 14px;
+    margin-bottom: 28px;
+}
+
+.footer__social_links a {
+    font-size: 16px;
+    font-weight: 400;
+    color: #ffffff;
+    margin-left: 28px;
+}
+
+.footer__social_links i {
+    font-size: 24px;
+}
+
+.footer__social_links a:first-child {
+    margin-left: 0px;
+}
+
+.footer__contact {
+    position: absolute;
+    bottom: -96px;
+    left: 0px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #FCD980;
+    width: 517px;
+    padding: 17px 37px;
+    box-sizing: border-box;
+}
+
+.footer__contact_mail {
+    width: 50%;
+}
+
+.footer__contact_mail h5 {
+    font-size: 18px;
+    font-weight: 500;
+    color: #282938;
+}
+
+.footer__contact_mail a {
+    font-size: 16px;
+    font-weight: 400;
+    color: #282938;
+}
+
+.footer__contact_call h5 {
+    font-size: 18px;
+    font-weight: 500;
+    color: #282938;
+}
+
+.footer__contact_call a {
+    font-size: 16px;
+    font-weight: 400;
+    color: #282938;
+}

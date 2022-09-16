@@ -1,0 +1,36 @@
+.privacy_section{
+    width: 842px;
+    margin: 0 auto;
+}
+
+.privacy_section .privacy_text h3{
+font-style: normal;
+font-weight: 600;
+font-size: 38px;
+line-height: 56px;
+color: #282938;
+}
+.privacy_section .privacy_text p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    opacity: 0.7;
+    margin: 16px 0;
+}
+.privacy_section .privacy_text p a{
+    color: #2405F2;
+}
+
+.privacy_section .privacy_text ul li{
+   list-style: disc;
+   list-style-position: inside;
+   margin-bottom: 12px;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 28px;
+   color: #282938;
+   opacity: 0.7;
+}

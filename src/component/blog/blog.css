@@ -1,0 +1,50 @@
+.blog {
+    padding: 128px 0px;
+}
+
+.blog__title {
+    font-size: 48px;
+    font-weight: 600;
+    color: #282938;
+    margin-bottom: 68px;
+}
+
+.blog__single {
+    width: 30%;
+}
+
+.blog__single img {
+    width: 100%;
+    display: block;
+}
+
+.blog__single h6 {
+    font-size: 16px;
+    font-weight: 500;
+    color: #282938;
+    margin-top: 40px;
+}
+
+.blog__single h2 {
+    font-size: 24px;
+    font-weight: 500;
+    color: #282938;
+    margin: 16px 0px;
+}
+
+.blog__single p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #282938;
+    margin-bottom: 32px;
+}
+
+.blog__single a {
+    font-size: 16px;
+    font-weight: 500;
+    color: #282938;
+}
+
+.blog__single i {
+    margin-left: 16px;
+}

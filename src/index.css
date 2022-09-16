@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.container {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+.d-flex{
+    display: flex;
+}
+.space-between{
+    display: flex;
+    justify-content: space-between;
+}
+
+.title{
+    padding: 110px 0 55px 0;
+}
+ .title h4{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    color: #282938;
+    text-align: center;
+
+}
+ .title p{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    color: #282938;
+    opacity: 0.7;
+    width: 510px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.design{
+    background: #F4F6FC;
+    padding: 128px 0;
+}
+.desing_head{
+    text-align: center;
+}
+.desing_head p{
+     font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #282938;
+    line-height: 28px;
+}
+.desing_head h3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 36px;
+    color: #282938;
+    line-height: 64px;
+    width: 491px;
+    margin: 0 auto;
+    padding-top: 12px;
+    padding-bottom: 47px;
+}
+.design_hole_part{
+    display: flex;
+    justify-content: space-between;
+}
+.design_one{
+    width: 350px;
+    background: #fff;
+    padding-left: 40px;
+    padding-bottom: 48px;
+    padding-right: 20px;
+}
+.design_one a{
+    display: inline-block;
+    font-size: 60px;
+    color: #2405F2;
+    padding-top: 50px;
+}
+.design_one h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: #282938;
+    line-height: 64px;
+}
+.design_one p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #282938;
+    line-height: 28px;
+}
+.design_separate{
+    margin-top: 24px;
+}

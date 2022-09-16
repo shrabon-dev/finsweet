@@ -1,0 +1,56 @@
+* working part start */
+.working{
+    padding: 128px 0;
+}
+/* working part end */
+/* working part start */
+.working_heading h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 34px;
+    color: #282938;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 45px;
+    padding-bottom: 30px;
+}
+.working_part{
+    display: flex;
+    justify-content: space-between;
+}
+.working_first_one{
+    width: 350px;
+    background: #F4F6FC;
+}
+.working_last_part{
+   display: flex;
+   justify-content: space-between;
+   margin-top: 48px;
+}
+.work_last_item_one{
+    width: 175px;
+}
+.work_last_item_two{
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.work_last_item_one h4{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    color: #282938;
+   
+}
+.work_last_item_one h6{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    color: #282938;
+    padding-top: 20px;
+}
+.work_client img{
+    width: 100%;
+}

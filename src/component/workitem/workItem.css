@@ -1,0 +1,100 @@
+.workout{
+    background: #fff;
+    padding: 100px 0;
+}
+.workout_head{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.workout_head button{
+    border: none;
+     font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    color: #1D2130;
+    background: transparent;
+    margin-right: 32px;
+}
+.workout_plan{
+    display: flex;
+    justify-content: space-between;
+}
+.workout_plan_one{
+    width: 47%;
+}
+.workout_img_part{
+   background: linear-gradient(131.34deg, #F4EDE1 16.74%, #98B1C6 103.17%);
+   padding: 33px;
+}
+.workout_img_part img{
+    width: 100%;
+}
+.workout_plan_one h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 58px;
+    color:#282938;
+    padding-top: 24px;
+    padding-bottom: 12px;
+}
+.workout_plan_one p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color:#282938;
+    padding-bottom: 24px;
+   text-align: initial;
+}
+.workout_plan_one a{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color:#282938;
+    padding-bottom: 24px;
+}
+.workout_plan_one span{
+  margin-left: 20px;
+}
+.workout_plan_two{
+    margin-top: 20px;
+}
+.worout_img_two{
+    background: linear-gradient(131.34deg, #FFD3AF 16.74%, #4F56FF 103.17%);
+}
+.worout_img_three{
+    background: linear-gradient(131.34deg, #C5BCFF 16.74%, #9BF7D5 103.17%);
+}
+.worout_img_four{
+   background: linear-gradient(131.34deg, #D2D6FD 16.74%, #D6ACEA 103.17%);
+}
+.worout_img_five{
+     background: linear-gradient(131.34deg, #D2D6FD 16.74%, #D6ACEA 103.17%);
+}
+.workout_last_text {
+    margin-top: 50px;
+       text-align: center;
+}
+.workout_last_text h3{
+   width: 700px;
+   margin: 0 auto;
+}
+.workout_last_text a{
+    background: #FCD980;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color:#000;
+    padding: 10px 40px;
+    display: inline-block;
+    border-radius:30px ;
+    -webkit-border-radius:30px ;
+    -moz-border-radius:30px ;
+    -ms-border-radius:30px ;
+    -o-border-radius:30px ;
+    margin-top: 10px;
+}

@@ -1,0 +1,54 @@
+.banner {
+    background-color: #1C1E53;
+    padding: 146px 0px;
+}
+
+.banner_content {
+    width: 40%;
+}
+
+.banner_content h1 {
+    font-size: 54px;
+    font-weight: 600;
+    color: #ffffff;
+    margin-bottom: 24px;
+}
+
+.banner_content p {
+    font-size: 16px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.banner_content_btn {
+    margin-top: 96px;
+}
+
+.banner_content_btn a {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.banner_content_btn_one {
+    color: #1B1C2B;
+    padding: 16px 56px;
+    background: #FCD980;
+    margin-right: 48px;
+    border-radius: 41px;
+    -webkit-border-radius: 41px;
+    -moz-border-radius: 41px;
+    -ms-border-radius: 41px;
+    -o-border-radius: 41px;
+}
+
+.banner_content_btn_two {
+    color: #ffffff;
+}
+
+.banner_content_btn_two i {
+    margin-left: 16px;
+}
+
+.banner_img {
+    width: 50%;
+}
