@@ -1,6 +1,7 @@
 import React from "react";
 import "./blogSection.css";
 import BlogItem from "../reuseableComponent/BlogItem";
+import { Link } from "react-router-dom";
 
 
 
@@ -17,7 +18,7 @@ export const BlogSection = () =>{
                 <div className="environ_img_text">
                     <p>Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to
                     twinkle. By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside.</p>
-                    <a href="">Read more</a>
+                    <Link to="/">Read more</Link>
                 </div>
             </div>
             <div className="out_blog">

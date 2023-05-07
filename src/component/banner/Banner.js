@@ -13,13 +13,13 @@ let Banner = ()=>{
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
                     <div className="banner_content_btn">
                         <Link to='/work' className="banner_content_btn_one">View our work</Link>
-                        <a href="#" className="banner_content_btn_two">View Pricing <i
-                                className="fa-solid fa-arrow-right"></i></a>
+                        <Link to="/work" className="banner_content_btn_two">View Pricing <i
+                                className="fa-solid fa-arrow-right"></i></Link>
                     </div>
                 </div>
 
                 <div className="banner_img">
-                    <img src="./images/banner.png" alt="banner.png" />
+                    <img src="/images/banner.png" alt="banner.png" />
                 </div>
             </div>
         </div>
